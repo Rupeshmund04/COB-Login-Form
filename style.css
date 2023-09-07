@@ -10,7 +10,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(185deg, #13547a 40%, #66ccc0 90%, #9e72e9 30%);
+    background-image: linear-gradient(135deg, #13547a 35%, #f41ca4e1 90%);
     background-size: cover;
     background-position: center;
 }
@@ -227,7 +227,7 @@
 /* part 1 media querry for responsiveness */
 @media (min-width:1000px) and (max-width:1250px) {
     .container {
-        background-image: linear-gradient(185deg, #13547a 40%, #66ccc0 90%, #9e72e9 30%);
+        background-image: linear-gradient(135deg, #13547a 35%, #f41ca4e1 90%);
     }
     .form_box1 input[type="password"] {
         width: 200px;
@@ -353,7 +353,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background-image: linear-gradient(135deg, #13547a 40%, #66ccc0 80%, #ed58f3 250%);
+        background-image: linear-gradient(135deg, #13547a 35%, #f41ca4e1 90%);
     }
     .login-Box {
         position: absolute;
@@ -483,7 +483,7 @@
         align-self:flex-start;
         justify-content: center;
         align-items: center;
-        background-image: linear-gradient(165deg, #13547a 40%, #66ccc0 90%, #9e72e9 30%);
+        background-image: linear-gradient(135deg, #13547a 35%, #f41ca4e1 90%);
     }
     .leftBox {
         width: 340px;
@@ -617,7 +617,7 @@
         display: flex;
         justify-content: center;
         align-items: start;
-        background-image: linear-gradient(150deg,#1D2671 80%  #f13d76 20%);
+        background-image: linear-gradient(135deg, #13547a 35%, #f41ca4e1 90%);
     }
     .login-Box {
         margin-top: 250px;
