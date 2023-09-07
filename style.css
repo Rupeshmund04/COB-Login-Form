@@ -783,3 +783,14 @@
         }
     }
 }
+@media (min-width:1251px) and (max-width:1650px) {
+    .footer {
+        margin-top: 80px;
+        margin-left: 45px;
+        font-size: 12px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgba(255, 255, 255, 1);
+        width: 230px;
+    }
+}
+/* End of CSS Styling  */
